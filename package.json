@@ -15,7 +15,8 @@
   },
   "packageManager": "pnpm@10.25.0",
   "engines": {
-    "node": ">=20"
+    "node": ">=20",
+    "pnpm": ">=10.0.0"
   },
   "scripts": {
     "dev": "turbo watch dev",
